@@ -6,4 +6,4 @@ The Objective of this notebook is to give an idea how is the workflow in any pre
 
 This is binary classification problem this repositor which contains the best eda for titanic dataset and all important function carry out to bulid a model 
 
-got a accuracy of 90%
+got a accuracy of 90% and Got 110th Rank among 10900 comptitors which in Top 2% in Kaggle compititon.
